@@ -150,7 +150,7 @@ a {
 .tm-section-wrap {
   width: 100%;
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 0;
 }
 
 .tm-main-nav > li > a {
