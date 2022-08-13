@@ -148,7 +148,7 @@ a {
 }
 
 .tm-section-wrap {
-  width: calc(100% - 400px);
+  width: 100%;
   margin-left: auto;
   margin-right: 0;
 }
