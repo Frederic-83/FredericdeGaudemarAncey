@@ -148,9 +148,9 @@ a {
 }
 
 .tm-section-wrap {
-  width: calc(75% - 400px);
+  width: calc(100% - 400px);
   margin-left: auto;
-  margin-right: auto;
+  margin-right: 0;
 }
 
 .tm-main-nav > li > a {
