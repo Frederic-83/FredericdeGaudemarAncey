@@ -54,7 +54,7 @@ a {
   width: 100%;
   padding: 55px;
   margin-right: 0;
-  margin-left: auto;
+  margin-left: 0;
 }
 
 .tm-section-title {
@@ -80,7 +80,7 @@ a {
 }
 
 .tm-brand {
-  font-size: 2.6rem;
+  font-size: 2.0rem;
 }
 
 .tm-brand-box {
